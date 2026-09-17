@@ -31,4 +31,3 @@ My main interests are **embedded systems, firmware, real-time systems, FPGA/digi
 - GitHub: [@angelolovatto](https://github.com/angelolovatto)
 - Email: angelolovatto414@gmail.com
 
-> I am currently organizing older academic projects into clean, well-documented repositories. I avoid republishing instructor-provided templates or code as my own work.
