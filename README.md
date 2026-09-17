@@ -1,4 +1,4 @@
-# Hi, I'm Angelo Lovatto 👋
+# Hi, I'm Angelo Lovatto 
 
 Computer Engineering student at the **Federal University of Santa Maria (UFSM)**, with expected graduation in **2028/1**.
 
